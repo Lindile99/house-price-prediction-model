@@ -4,8 +4,11 @@ This project applies a **multiple linear regression model** to predict the sales
 
 ## 🔧Tools used
 -Python, Pandas, Numpy
+
 -Seaborn, Matplotlib
+
 -sklearn (Linear Regression)
+
 -Evaluations: MSE, RMSE
 
 ## Key steps
