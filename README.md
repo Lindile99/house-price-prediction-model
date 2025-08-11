@@ -16,11 +16,12 @@ Model evaluation using MSE and RMSE
 Visualized coefficients and prediction errors
 
 ## ✅️Results
--RMSE: 
 -Good linear relationship observed
 
 ## 📂Files
--
--
--
+-Linear_Regression_Ames.ipynb : Full analysis notebook
+
+-Data : Ames dataset used
+
+
 
