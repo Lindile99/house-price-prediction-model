@@ -10,10 +10,14 @@ This project applies a **multiple linear regression model** to predict the sales
 
 ## Key steps
 -Data cleaning and exploratory analysis(EDA)
+
 -feature selection
+
 -Built a multiple linear regression model and trained it
-Model evaluation using MSE and RMSE
-Visualized coefficients and prediction errors
+
+-Model evaluation using MSE and RMSE
+
+-Visualized coefficients and prediction errors
 
 ## ✅️Results
 -Good linear relationship observed
