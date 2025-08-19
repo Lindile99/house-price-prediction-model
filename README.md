@@ -26,7 +26,7 @@ This project applies a **multiple linear regression model** to predict the sales
 -Good linear relationship observed
 
 ## 📂Files
--Linear_Regression_Ames.ipynb : Full analysis notebook
+-house-price-prediction.ipynb : Full analysis notebook
 
 -Data : Ames dataset used
 
