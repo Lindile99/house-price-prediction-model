@@ -10,7 +10,7 @@ The objective of this project is to analyze the relationship between house featu
 ---
 
 ## Dataset
-- Source: [Kaggle – Ames Housing Dataset(https://www.kaggle.com/datasets/shashanknecrothapa/ames-housing-dataset)
+- Source: [Kaggle – Ames Housing Dataset](https://www.kaggle.com/datasets/shashanknecrothapa/ames-housing-dataset)
 
 ---
 
