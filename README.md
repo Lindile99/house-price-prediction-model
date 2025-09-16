@@ -4,11 +4,13 @@ This project applies a **multiple linear regression model** to predict the sales
 
 ---
 ## 🔑 Objective
+
 The objective of this project is to analyze the relationship between house features and sale prices, and to build a multiple linear regression model that predicts house prices based on above-ground living area (Gr_Liv_Area) and garage area (Garage_Area).
+
 ---
 
 ## Dataset
-- Source: [Kaggle – Ames Housing Dataset (https://www.kaggle.com/datasets/shashanknecrothapa/ames-housing-dataset)
+- Source: [Kaggle – Ames Housing Dataset(https://www.kaggle.com/datasets/shashanknecrothapa/ames-housing-dataset)
 
 ---
 
