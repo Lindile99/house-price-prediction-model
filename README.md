@@ -8,7 +8,7 @@ The objective of this project is to analyze the relationship between house featu
 ---
 
 ## Dataset
-- Source: [Kaggle – Sample Pharmaceutical Drug Sales Dataset](https://www.kaggle.com/datasets/jewelzufo/sample-pharmaceutical-drug-sales)
+- Source: [Kaggle – Ames Housing Dataset (https://www.kaggle.com/datasets/shashanknecrothapa/ames-housing-dataset)
 
 ---
 
