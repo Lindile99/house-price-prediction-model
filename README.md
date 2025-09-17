@@ -49,7 +49,7 @@ The objective of this project is to analyze the relationship between house featu
 ## 📁 Repository Structure
 Images/         #Visualizations
 
-ames.csv        #Raw data
+ames_dataset.csv        #Raw data
 
 README.md       # Project description
 
